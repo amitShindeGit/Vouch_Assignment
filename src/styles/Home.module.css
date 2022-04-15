@@ -1,0 +1,30 @@
+.mainHome{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* max-width: 90rem; */
+    /* margin: 0 1rem; */
+}
+
+.login{
+    flex-grow: 1;
+    /* width: 10rem; */
+    margin-right: -7rem;
+}
+
+.pic{
+    flex-grow: 1;
+    width: 30rem;
+    overflow: hidden;
+}
+
+@media (max-width: 480px) {
+    .pic{
+        display: none;
+    }
+
+    .login{
+        flex-grow: 0;
+        margin: 0 auto;
+    }
+}

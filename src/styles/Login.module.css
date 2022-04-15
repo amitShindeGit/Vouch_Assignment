@@ -1,0 +1,54 @@
+.loginMain{
+    max-width: 20rem;
+    
+    margin: 12rem auto 0 auto;
+}
+
+.loginMain h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+
+.title{
+    margin-bottom: -.5rem;
+    text-align: center;
+}
+
+.subTitle{
+    text-align: center;
+}
+
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: .5rem;
+}
+
+.loginBtn {
+    width: 20rem;
+    background-color: #023047;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+
+.loginBtn:hover{
+    width: 20rem;
+    background-color: #023047;
+    border: none;
+}
+
+.loginBtn:focus{
+    width: 20rem;
+    background-color: #023047;
+    border: none;
+}
+
+.remember{
+    display: flex;
+}
