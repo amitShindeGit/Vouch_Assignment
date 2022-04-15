@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vouch_Assignment/static/css/main.a50a113e.css",
+    "main.js": "/Vouch_Assignment/static/js/main.3003a924.js",
+    "static/js/787.de2c89cf.chunk.js": "/Vouch_Assignment/static/js/787.de2c89cf.chunk.js",
+    "static/media/img.jpg": "/Vouch_Assignment/static/media/img.75ba21b118f4f390412d.jpg",
+    "index.html": "/Vouch_Assignment/index.html",
+    "main.a50a113e.css.map": "/Vouch_Assignment/static/css/main.a50a113e.css.map",
+    "main.3003a924.js.map": "/Vouch_Assignment/static/js/main.3003a924.js.map",
+    "787.de2c89cf.chunk.js.map": "/Vouch_Assignment/static/js/787.de2c89cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50a113e.css",
+    "static/js/main.3003a924.js"
+  ]
+}
